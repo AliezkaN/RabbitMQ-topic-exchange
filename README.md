@@ -1,4 +1,4 @@
-# To check how fanout exchange works
+# To check how topic exchange works
 
 # First way
 * Run RabbitMQ in Docker container:
